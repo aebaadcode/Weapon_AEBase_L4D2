@@ -1,0 +1,11 @@
+Fire - duh?
+
+idle -duh?
+
+No clip idle - duh?
+
+reload 1 - put clip out (71 frames, 2.84 seconds)
+
+reload 2 - put clip in (105 frames, 4.2 seconds)
+
+use - Equip (50 frames, 2.0 seconds)

@@ -1,0 +1,107 @@
+Torque Exporter 0.964 
+ Using blender, version 249
+ Exporting...
+ Writing shape to  'C:\Program Files\Mac\blender\Rykuta\Sniper\sniperAnimations.dts'.
+ Processing...
+ Object Cube, Skinned
+    Action Fire used, dumping...
+       Track: muzzlepoint (node 5)
+       Track: Lhand (node 2)
+       Track: Clip (node 3)
+       Track: Slide (node 7)
+       Track: Trigger (node 4)
+       Track: mountpoint (node 1)
+       Track: Cocker (node 8)
+       Track: Rhand (node 9)
+       Track: ejectpoint (node 6)
+       Frames: 18 
+       Animates: loc rot 
+    Loaded sequence 'Fire'.
+    Action reload used, dumping...
+       Track: muzzlepoint (node 5)
+       Track: Lhand (node 2)
+       Track: Clip (node 3)
+       Track: Slide (node 7)
+       Track: Trigger (node 4)
+       Track: mountpoint (node 1)
+       Track: Cocker (node 8)
+       Track: Rhand (node 9)
+       Track: ejectpoint (node 6)
+       Frames: 115 
+       Animates: loc rot scale 
+    Loaded sequence 'reload'.
+    Action use used, dumping...
+       Track: muzzlepoint (node 5)
+       Track: Lhand (node 2)
+       Track: Clip (node 3)
+       Track: Slide (node 7)
+       Track: Trigger (node 4)
+       Track: mountpoint (node 1)
+       Track: Cocker (node 8)
+       Track: Rhand (node 9)
+       Track: ejectpoint (node 6)
+       Frames: 36 
+       Animates: loc rot 
+    Loaded sequence 'use'.
+    Action reload2 used, dumping...
+       Track: muzzlepoint (node 5)
+       Track: Lhand (node 2)
+       Track: Clip (node 3)
+       Track: Slide (node 7)
+       Track: Trigger (node 4)
+       Track: mountpoint (node 1)
+       Track: Cocker (node 8)
+       Track: Rhand (node 9)
+       Track: ejectpoint (node 6)
+       Frames: 114 
+       Animates: loc rot scale 
+    Loaded sequence 'reload2'.
+ > Shape Details
+    > Nodes
+      ^^ Bone [Exp-Catch-Root] (parent -1)
+      ^^ Bone [mountpoint] (parent -1)
+       ^^ Bone [Lhand] (parent 1)
+       ^^ Bone [Clip] (parent 1)
+       ^^ Bone [Trigger] (parent 1)
+       ^^ Bone [muzzlepoint] (parent 1)
+       ^^ Bone [ejectpoint] (parent 1)
+       ^^ Bone [Slide] (parent 1)
+       ^^ Bone [Cocker] (parent 1)
+       ^^ Bone [Rhand] (parent 1)
+    > Objects
+     'Cube' : Skinned 
+    > Materials
+       Blue
+       Gray
+       DarkGray
+       Skin.001
+       White
+       DarkerGray
+    > Detail Levels
+       Detail-1 (size : 32)
+       Smallest : Detail-1 (size : 32)
+    > Internal Sequences
+     - Fire
+        Animates: loc rot 
+        Frames: 18
+        Ground Frames: 0
+        Triggers: 0
+     - reload
+        Animates: loc rot scale 
+        Frames: 115
+        Ground Frames: 0
+        Triggers: 0
+     - use
+        Animates: loc rot 
+        Frames: 36
+        Ground Frames: 0
+        Triggers: 0
+     - reload2
+        Animates: loc rot scale 
+        Frames: 114
+        Ground Frames: 0
+        Triggers: 0
+ Writing out DTS...
+ Done.
+ Finished.
+ 

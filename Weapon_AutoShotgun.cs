@@ -109,6 +109,10 @@ datablock ShapeBaseImageData(L4D2_AutoShotgunImage)
    projectileTagStrength = 0.35;  // tagging strength
    projectileTagRecovery = 0.03; // tagging decay rate
 
+   concBlastProj = ShotgunBlastProjectile;
+   concBlastDamage = 30;
+   concBlastScale = 1;
+
    recoilHeight = 2;
    recoilWidth = 0;
    recoilWidthMax = 0;

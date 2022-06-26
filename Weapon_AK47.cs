@@ -36,6 +36,7 @@ datablock ItemData(L4D2_AK47Item)
 	AEType = AE_HeavyRAmmoItem.getID();
 	AEBase = 1;
 
+	Auto = true; 
 	RPM = 800;
 	recoil = "Heavy";
 	uiColor = "1 1 1";
